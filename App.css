@@ -1,0 +1,20 @@
+
+
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+h1{ color: aqua;text-align: center; background-color: darkgrey;}
+h2{ background-color: blue; text-align: center;color: crimson;}
+.text2{display: inline-block;color: rgb(26, 25, 24);background-color: darkseagreen;margin: 20px;border: 2px solid greenyellow;}
+.boxing{ border: 2px solid red; display: inline-block;height: 315px;width: 215px;text-align: center;background-color: greenyellow;}
+.box1{display: inline-block; margin: 10px; margin-right: 50px;}
+marquee{color: red;}
+
+.Box{border: 5px solid red;height: 100px; width: 100px;box-shadow:5px 5px chartreuse;}
+.text{text-shadow:2px 1px chartreuse; font-size: 100px;}
+
+
